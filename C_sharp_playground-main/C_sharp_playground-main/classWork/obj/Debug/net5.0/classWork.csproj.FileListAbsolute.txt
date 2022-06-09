@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\classWork\bin\Debug\net5.0\classWork.exe
+C:\Users\admin\source\repos\classWork\bin\Debug\net5.0\classWork.deps.json
+C:\Users\admin\source\repos\classWork\bin\Debug\net5.0\classWork.runtimeconfig.json
+C:\Users\admin\source\repos\classWork\bin\Debug\net5.0\classWork.runtimeconfig.dev.json
+C:\Users\admin\source\repos\classWork\bin\Debug\net5.0\classWork.dll
+C:\Users\admin\source\repos\classWork\bin\Debug\net5.0\ref\classWork.dll
+C:\Users\admin\source\repos\classWork\bin\Debug\net5.0\classWork.pdb
+C:\Users\admin\source\repos\classWork\obj\Debug\net5.0\classWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\classWork\obj\Debug\net5.0\classWork.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\classWork\obj\Debug\net5.0\classWork.AssemblyInfo.cs
+C:\Users\admin\source\repos\classWork\obj\Debug\net5.0\classWork.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\classWork\obj\Debug\net5.0\classWork.dll
+C:\Users\admin\source\repos\classWork\obj\Debug\net5.0\ref\classWork.dll
+C:\Users\admin\source\repos\classWork\obj\Debug\net5.0\classWork.pdb
+C:\Users\admin\source\repos\classWork\obj\Debug\net5.0\classWork.genruntimeconfig.cache
+C:\Users\admin\source\repos\classWork\obj\Debug\net5.0\classWork.csproj.AssemblyReference.cache

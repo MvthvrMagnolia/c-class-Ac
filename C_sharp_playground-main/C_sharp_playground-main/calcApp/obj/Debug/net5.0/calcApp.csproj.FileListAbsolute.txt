@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\calcApp\bin\Debug\net5.0\calcApp.exe
+C:\Users\admin\source\repos\calcApp\bin\Debug\net5.0\calcApp.deps.json
+C:\Users\admin\source\repos\calcApp\bin\Debug\net5.0\calcApp.runtimeconfig.json
+C:\Users\admin\source\repos\calcApp\bin\Debug\net5.0\calcApp.runtimeconfig.dev.json
+C:\Users\admin\source\repos\calcApp\bin\Debug\net5.0\calcApp.dll
+C:\Users\admin\source\repos\calcApp\bin\Debug\net5.0\ref\calcApp.dll
+C:\Users\admin\source\repos\calcApp\bin\Debug\net5.0\calcApp.pdb
+C:\Users\admin\source\repos\calcApp\obj\Debug\net5.0\calcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\calcApp\obj\Debug\net5.0\calcApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\calcApp\obj\Debug\net5.0\calcApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\calcApp\obj\Debug\net5.0\calcApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\calcApp\obj\Debug\net5.0\calcApp.dll
+C:\Users\admin\source\repos\calcApp\obj\Debug\net5.0\ref\calcApp.dll
+C:\Users\admin\source\repos\calcApp\obj\Debug\net5.0\calcApp.pdb
+C:\Users\admin\source\repos\calcApp\obj\Debug\net5.0\calcApp.genruntimeconfig.cache
+C:\Users\admin\source\repos\calcApp\obj\Debug\net5.0\calcApp.csproj.AssemblyReference.cache
